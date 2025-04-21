@@ -20,7 +20,7 @@
                 <a href="sign_in.php" class="btn">Sign In</a>
                 <!-- <a href="register_form.php" class="btn">register</a>
                 <a href="logout.php" class="btn">logout</a> -->
-                <p class="don">Don’t have an account? <a href="sign_in.php" class="btn-bold">Sign Up</a></p>
+                <p class="don">Don’t have an account? <a href="sign_up.php" class="btn-bold">Sign Up</a></p>
             </div>
         </div>
     </body>
