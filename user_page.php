@@ -1,3 +1,15 @@
+<?php
+
+session_start();
+
+@include 'config.php';
+
+if(!isset($_SESSION['user_name'])){
+   header('location:sign_in.php');
+}
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -16,3 +28,4 @@
         </div>
     </body>
 </html>
+

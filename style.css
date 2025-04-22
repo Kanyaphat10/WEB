@@ -9,7 +9,7 @@
 }
 
 .admin-page{
-    background-image: url('Howl.png');
+    background: #000;
     background-size: cover;         
     background-position: center;    
     background-repeat: no-repeat;    
@@ -67,7 +67,7 @@
     justify-content: left;
     padding: 20px;
     padding-bottom: 60px;
-    background: #eee;
+    background: #000;
 }
 
 .form-container form{
